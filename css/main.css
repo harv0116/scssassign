@@ -639,6 +639,9 @@ html, body {
   cursor: default;
   background: #fff; }
 
+div .mask {
+  height: 240px; }
+
 .view .mask, .view .content {
   position: absolute;
   overflow: hidden;
